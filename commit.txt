@@ -1,1 +1,7 @@
-testing 2 line commit message
+feat: Introduces a new feature.
+fix: Fixes a bug.
+chore: Tasks related to building, managing, or maintaining the project, but not directly adding features or fixing bugs (e.g., updating dependencies, running tests).
+refactor: Refactoring code without introducing new features or fixing bugs (e.g., improving code structure, readability, or maintainability).
+docs: Updates to documentation (e.g., README, API documentation).
+style: Changes that don't affect the functionality of the code, but improve its style or formatting (e.g., fixing indentation, removing unused variables).
+test: Adding new tests or fixing existing ones.
